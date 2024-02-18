@@ -1,2 +1,2 @@
- i am pushing a file from local repo to remote repos main branch
+ i am pushing a file but is conflict works good
 
