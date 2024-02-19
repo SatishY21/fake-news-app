@@ -1,5 +1,3 @@
 
-i am a updated feature 3
-
-f3 in  master branch
+i am a updated feature3
 
