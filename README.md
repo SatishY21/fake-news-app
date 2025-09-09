@@ -10,7 +10,7 @@ You can try the live application here: **[Live Demo](https://fake-news-app-bkwkf
 
 ## 📸 Screenshot
 
-![App Screenshot](https://i.imgur.com/your-screenshot-filename.png) 
+![App Screenshot](https://github.com/SatishY21/fake-news-app/blob/main/Demo.png) 
 
 ## ✨ Features
 
