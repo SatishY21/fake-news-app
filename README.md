@@ -6,7 +6,7 @@ A web application built with Streamlit and Hugging Face Transformers to classify
 
 ## 🚀 Live Demo
 
-You can try the live application here: **[Live Demo](YOUR_STREAMLIT_APP_URL_HERE)**
+You can try the live application here: **[Live Demo](https://fake-news-app-bkwkfpw7y93bcfhwnsdegx.streamlit.app/)**
 
 ## 📸 Screenshot
 
