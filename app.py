@@ -37,4 +37,5 @@ if st.button("Analyze", type="primary"):
             else:
                 st.error(f"This article is likely **Fake** (Confidence: {score:.2%})")
     else:
+
         st.warning("Please enter some text to analyze.")
